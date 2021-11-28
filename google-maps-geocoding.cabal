@@ -36,7 +36,6 @@ library
   exposed-modules:     Web.Google.Geocoding
   build-depends:       base >= 4.8 && < 4.15
                      , aeson >= 1.1 && < 1.6
-                     , google-static-maps >= 0.7 && < 0.8
                      , http-client >= 0.5 && < 0.8
                      , servant >= 0.16 && < 0.19
                      , servant-client >= 0.16 && < 0.19

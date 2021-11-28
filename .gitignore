@@ -1,6 +1,7 @@
 # The Haskell Tool Stack related
 .stack-work/
 dist/
+dist-newstyle/
 stack.yaml.lock
 
 # Haddock related
